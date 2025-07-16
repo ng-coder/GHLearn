@@ -1,3 +1,9 @@
 Cd - change directory
 pwd - print working directory
 ls - list current directory
+clear - to clear the screen
+cp - copy
+mkdir - create directory
+rm - remove 
+mv - move 
+cat - displays content of file
